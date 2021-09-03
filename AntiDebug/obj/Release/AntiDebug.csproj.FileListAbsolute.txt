@@ -1,0 +1,5 @@
+C:\Users\Imaginetryingtodoxme\source\repos\AntiDebug\AntiDebug\bin\Release\AntiDebug.dll
+C:\Users\Imaginetryingtodoxme\source\repos\AntiDebug\AntiDebug\bin\Release\AntiDebug.pdb
+C:\Users\Imaginetryingtodoxme\source\repos\AntiDebug\AntiDebug\obj\Release\AntiDebug.csproj.CoreCompileInputs.cache
+C:\Users\Imaginetryingtodoxme\source\repos\AntiDebug\AntiDebug\obj\Release\AntiDebug.dll
+C:\Users\Imaginetryingtodoxme\source\repos\AntiDebug\AntiDebug\obj\Release\AntiDebug.pdb

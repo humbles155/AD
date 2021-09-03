@@ -1,0 +1,6 @@
+C:\Users\Imaginetryingtodoxme\source\repos\AntiDebug\AntiDebug\bin\Debug\AntiDebug.dll
+C:\Users\Imaginetryingtodoxme\source\repos\AntiDebug\AntiDebug\bin\Debug\AntiDebug.pdb
+C:\Users\Imaginetryingtodoxme\source\repos\AntiDebug\AntiDebug\obj\Debug\AntiDebug.csproj.AssemblyReference.cache
+C:\Users\Imaginetryingtodoxme\source\repos\AntiDebug\AntiDebug\obj\Debug\AntiDebug.csproj.CoreCompileInputs.cache
+C:\Users\Imaginetryingtodoxme\source\repos\AntiDebug\AntiDebug\obj\Debug\AntiDebug.dll
+C:\Users\Imaginetryingtodoxme\source\repos\AntiDebug\AntiDebug\obj\Debug\AntiDebug.pdb
